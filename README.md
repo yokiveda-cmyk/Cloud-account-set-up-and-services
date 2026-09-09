@@ -77,7 +77,7 @@ Output:
 
 <img width="1917" height="1198" alt="646484362-7bb97d27-9d70-4d3d-b69e-2e4f973c0a1c" src="https://github.com/user-attachments/assets/7ada24db-25d1-48d5-9c1a-9ac5a645ee74" />
 
-![Uploading 646484764-128ad5f7-c6eb-4389-91b6-a5a2b75c8241.png…]()
+<img width="1917" height="1188" alt="646484764-128ad5f7-c6eb-4389-91b6-a5a2b75c8241" src="https://github.com/user-attachments/assets/c1d8f779-63d1-47cc-b51f-62ff14232341" />
 
 Result:
 Thus an account was created in AWS platform and all the services were explored.
